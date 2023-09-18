@@ -22,4 +22,4 @@ O Visual Code exibirá um QR CODE, utilize o EXPO GO e digitalize o mesmo. A par
 
 Caso ocorre falhas de network, execute o código a seguir e realize os procedimentos anteriores novamente.
 
-npx expo start --tunnel"
+npx expo start --tunnel
