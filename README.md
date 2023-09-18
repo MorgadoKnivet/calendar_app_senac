@@ -1,3 +1,15 @@
+Projeto Integrador Grupo 09
+  Integrantes:
+
+* Victor Hugo Moreira
+* Kauan Lopes de Queiroz
+* Jefferson Goulart Santos
+* Morillo Dobranski Silva
+* Guilherme Morgado Fonseca
+* Marcel Souza Pacheco
+* Bruno Tavares de Oliveira
+
+
 # calendar_app_senac
 
 Requisitos Básicos:
