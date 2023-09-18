@@ -35,3 +35,9 @@ O Visual Code exibirá um QR CODE, utilize o EXPO GO e digitalize o mesmo. A par
 Caso ocorre falhas de network, execute o código a seguir e realize os procedimentos anteriores novamente.
 
 npx expo start --tunnel
+
+
+Observação
+Talvez seja necessário fazer a instalação do expo CLI, caso não tenha instalado, execute o comando abaixo:
+
+npm install --global expo ou yarn add expo
